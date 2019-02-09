@@ -131,7 +131,7 @@ ABBREVIATIONS = ["asap", "brb", "ikr", "jk", "kk", "lmao", "lmfao", "lmk", "lol"
 
 OUTPUT_HEADER_CI = "Conversation Name,Author Name,Message Count,Total Message Length"
 OUTPUT_HEADER_FRIEND = "Friend Name,Combined Message Length,My Length Ratio,Combined Message Count,My Message Count Ratio"
-OUTPUT_HEADER_GROUP = "Group Name,Author Name,Combined Message Length,Length Ratio,Combined Message Count,Message Count Ratio"
+OUTPUT_HEADER_GROUP = "Group Name,Author Name,Combined Message Count,Combined Message Length"
 
 #TIME_START = 1535342400000 #August 27 2018, 12:00:00 AM, Eastern Time
 MILLIS_PER_WEEK = 604800000
